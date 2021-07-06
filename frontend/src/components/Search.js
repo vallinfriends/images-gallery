@@ -25,6 +25,6 @@ const Search = ({ word, setWord, handleSubmit }) => {
       </Row>
     </Container>
   );
-}
+};
 
 export default Search;

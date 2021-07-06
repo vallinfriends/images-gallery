@@ -2,8 +2,8 @@ import React from 'react';
 import { Navbar, Container } from 'react-bootstrap';
 
 const navbarStyle = {
-  backgroundColor: 'lightblue'
-}
+  backgroundColor: 'lightblue',
+};
 
 const Header = ({ title }) => {
   return (
@@ -13,6 +13,6 @@ const Header = ({ title }) => {
       </Container>
     </Navbar>
   );
-}
+};
 
 export default Header;
