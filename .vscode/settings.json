@@ -4,5 +4,6 @@
     "html",
     "javascript",
     "javascriptreact"
-  ]
+  ],
+  "python.pythonPath": "C:/Users/valli/OneDrive/Documents/images-gallery/api/.venv/Scripts/python.exe"
 }
